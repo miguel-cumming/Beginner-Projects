@@ -1,5 +1,5 @@
 import csv
-from collections import defaultdict, namedtuple, Counter
+from collections import defaultdict, namedtuple
 
 NUM_TOP_DIRECTORS = 20
 MOVIE_DATA = 'movie_metadata.csv'
